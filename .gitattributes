@@ -1,0 +1,6 @@
+* text eol=lf
+
+*.go text
+
+*.bin binary
+*.vocab binary
